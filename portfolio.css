@@ -1,0 +1,284 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+
+#navbarmanual{
+  position: fixed;
+  min-width: 100%;
+}
+
+
+.navbarmanual2 li{
+ margin-left: 6rem;
+ font-weight: 600;
+}
+
+/* .WebDeveloper2{
+border: 0.1px solid white;
+border-radius: 50%;
+margin-left: 0.5rem;
+} */
+
+
+.WebDeveloper{
+  margin-left: 1rem;
+  font-weight: 600;
+}
+
+.container-manual{
+  border: 1px solid black;
+ background-color: aqua;
+ height: 900px;
+}
+
+.right-section{
+  margin-top: 8rem;
+}
+
+.yellow{
+    color: rgb(213, 213, 7);
+font-weight: 700;
+}
+
+
+.leftsection {
+  /* background-color: antiquewhite; */
+  font-size: 2.5rem;
+  margin-top: 8rem;
+}
+
+.leftsection2{
+  font-size: 2.1rem;
+}
+
+.leftsection3{
+  font-size: 1.2rem;
+  font-weight: 510;
+}
+
+
+.button{
+  width: 8rem;
+}
+
+.button2{
+  width: 8rem;
+  margin-top: 0.8rem;
+}
+
+
+
+.EducationandExperience{
+  margin-top: 5rem;
+  
+}
+
+.AboutMe h1{
+font-weight: 700;
+margin-top: 4rem;
+}
+
+
+.AboutMe2{
+  margin-top: 10rem;
+}
+
+.GirishImage{
+  border-radius: 50%;
+  width: 19rem;
+   height:19rem;
+   margin-top: 1.5rem;
+   
+
+}
+
+.AbtMe2{
+  margin-top: 0.8rem;
+  font-weight: 600;
+}
+.AbtMe3{
+  margin-top: 0.8rem;
+  font-weight: 600;
+  width: 100%;
+}
+
+.Socials{
+  margin-top: 0.8rem;
+}
+
+.socialsIcons{
+margin-top: 1rem;
+  margin-left: 0.8rem;
+  font-size: 1.4rem;
+  color: yellow;
+}
+
+
+
+
+.FrontEnd{
+
+  border: 2px solid #ff00ee;
+  height: 27.5rem;
+  margin: 3rem;
+  border-radius: 5%;
+  /* background-color: rgb(254, 254, 251); */
+}
+
+
+
+.FullStack{
+margin-top: 5rem;
+}
+
+
+.SkillContainer{
+  border: .01px solid black;
+/* margin-top: 10rem; */
+}
+
+
+.FrontEndSkills{
+  margin: 2rem;
+  
+
+}
+
+.SkillContainer h1{
+  margin-bottom: 2rem;
+  font-weight: 700;
+  margin-top: 3rem;
+}
+
+
+.FrontEnd h4{
+margin-top: 2rem;
+font-weight: 600;
+}
+
+
+
+/* Contact ME: */
+
+.ContactMe input{
+  
+  height: 3rem;
+  width: 20rem;
+margin-left: 4.5rem;
+margin-top: 1rem;
+border-radius: 7px;
+border: 2px solid #ff00ee;
+background-color: rgb(40, 40, 40);
+}
+
+.ContactMe2 input{
+  
+  height: 3rem;
+  width: 20rem;
+margin-left: 4.5rem;
+margin-top: 1rem;
+border-radius: 7px;
+opacity: 1;
+background-color: rgb(40, 40, 40);
+border: 2px solid #ff00ee;
+}
+
+.ContactMe4 textarea{
+  
+  /* height: 3rem; */
+  width: 20rem;
+/* margin-left: 12rem; */
+margin-top: 1rem;
+background-color: rgb(40, 40, 40);
+border: 2px solid #ff00ee;
+border-radius: 7px;
+
+}
+
+
+.ContactMe3 input{
+  
+  height: 3rem;
+  width: 9rem;
+margin-top: 1rem;
+border-radius: 7px;
+background-color: rgb(46, 46, 170);
+border: 2px solid #ff00ee;
+}
+
+.ContactMe3 input:hover{
+  
+background-color: rgb(72, 72, 220);
+}
+
+
+
+
+
+.ContactMe4 {
+  
+  display: flex;
+justify-content: center;
+}
+
+.ContactMe3 {
+  
+  display: flex;
+justify-content: center;
+}
+
+
+.Socials2{
+  margin-top: 1rem;
+  margin-bottom: 1.2rem;
+  display: flex;
+  justify-content: center;
+}
+
+.socialsIcons2{
+  margin: 0.75rem;
+  font-size: 1.4rem;
+  color: yellow;
+}
+
+
+/* PersonalInfos: */
+
+.PersonalInfos{
+display: none;
+  /* margin-top: 5rem; */
+}
+
+.PersonalInfos h2{
+  font-weight: 700;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+
+.PerInfo{
+
+  /* border: 1px solid rgb(227, 225, 225); */
+  /* height: 27.5rem; */
+  margin-right: 1rem;
+  /* background-color: rgb(254, 254, 251); */
+}
+
+
+*{
+  background-color: black;
+  color: white;
+}
+
+.Footer{
+  border-top: 0.1px solid rgb(50, 49, 49);
+}
+
+.Footer i{
+color: red;
+}
+
+.button2{
+  margin-bottom: 5rem;
+}

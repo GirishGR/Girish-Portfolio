@@ -112,7 +112,8 @@ margin-top: 4rem;
 margin-top: 1rem;
   margin-left: 0.8rem;
   font-size: 1.4rem;
-  color: yellow;
+  color: #ff00ee;
+  ;
 }
 
 
@@ -122,7 +123,7 @@ margin-top: 1rem;
 
   border: 2px solid #ff00ee;
   height: 27.5rem;
-  margin: 3rem;
+  margin: 2rem;
   border-radius: 5%;
   /* background-color: rgb(254, 254, 251); */
 }
@@ -240,7 +241,7 @@ justify-content: center;
 .socialsIcons2{
   margin: 0.75rem;
   font-size: 1.4rem;
-  color: yellow;
+  color: #ff00ee;
 }
 
 
